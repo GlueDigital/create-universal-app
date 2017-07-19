@@ -1,0 +1,8 @@
+{
+  "name": "create-universal-app",
+  "version": "0.0.1",
+  "description": "Create universal apps with no build configuration.",
+  "repository": "git@github.com:GlueDigital/create-universal-app.git",
+  "author": "Glue Digital <hola@glue.digital>",
+  "license": "MIT"
+}
